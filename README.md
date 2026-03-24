@@ -39,6 +39,8 @@ Você pode visualizar o código fonte diretamente aqui:
 
 **Fred Cavalheiro**
 
+---
+
 ## 📞 Contato e Conexão
 
 * 🔄 **Em transição de carreira:** De Vigilante para a área de Tecnologia.
