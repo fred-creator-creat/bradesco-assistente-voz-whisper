@@ -1,6 +1,6 @@
 # 🎙️ Assistente Virtual Inteligente: Voz + GenAI (Projeto DIO & Bradesco)
 
-Este repositório contém o projeto do bootcamp da **Bradesco - GenAI & Dados** em parceria com a **DIO**. Desenvolvi uma assistente de voz interativa que utiliza modelos de última geração para audição, processamento de linguagem e fala.
+Este repositório contém o projeto do bootcamp do **Bradesco - GenAI & Dados** em parceria com a **DIO**. Desenvolvi uma assistente de voz interativa que utiliza modelos de última geração para audição, processamento de linguagem e fala.
 
 ## 🚀 Evoluções e Diferenciais do Projeto
 Diferente da estrutura básica, este projeto foi aprimorado com:
